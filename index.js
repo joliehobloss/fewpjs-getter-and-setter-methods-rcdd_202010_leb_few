@@ -17,16 +17,16 @@ class Circle{
   }
   
   
-  set diameter(){
-    
+  set diameter(r){
+    this.radius=r/2
   }
   
-  set circumference(){
+  /*set circumference(){
    
   }
    set area(){
    
-  }
+  }*/
   
 }
 
