@@ -27,10 +27,8 @@ class Circle{
     this.radius=c/(Math.PI*2);
    
   }
-   /*set area(){
-   
-  }*/
-  
+
+ 
 }
 
 
