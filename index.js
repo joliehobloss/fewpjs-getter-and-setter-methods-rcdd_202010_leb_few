@@ -23,7 +23,7 @@ class Circle{
     this.radius=r/2
   }
   
-  /*set circumference(){
+  set circumference(){
    
   }
    set area(){
